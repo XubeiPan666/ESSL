@@ -1,0 +1,16 @@
+[2023-05-29 13:53:03,743 INFO UVAD_main.py line 107 18108] The running_data : 2023-05-29-13-53-03
+[2023-05-29 13:53:03,744 INFO UVAD_main.py line 110 18108] -------------sk : 0.9
+[2023-05-29 13:53:03,744 INFO UVAD_main.py line 110 18108] -------------tk : 0.7
+[2023-05-29 13:53:03,744 INFO UVAD_main.py line 110 18108] -------------val_step : 2400
+[2023-05-29 13:53:03,744 INFO UVAD_main.py line 110 18108] -------------print_interval : 100
+[2023-05-29 13:53:03,744 INFO UVAD_main.py line 110 18108] -------------epochs : 100
+[2023-05-29 13:53:03,744 INFO UVAD_main.py line 110 18108] -------------gpu_id : 0
+[2023-05-29 13:53:03,744 INFO UVAD_main.py line 110 18108] -------------log_date : None
+[2023-05-29 13:53:03,745 INFO UVAD_main.py line 110 18108] -------------batch_size : 64
+[2023-05-29 13:53:03,745 INFO UVAD_main.py line 110 18108] -------------static_threshold : 0.2
+[2023-05-29 13:53:03,745 INFO UVAD_main.py line 110 18108] -------------sample_num : 9
+[2023-05-29 13:53:03,745 INFO UVAD_main.py line 110 18108] -------------filter_ratio : 0.8
+[2023-05-29 13:53:03,745 INFO UVAD_main.py line 110 18108] -------------checkpoint : None
+[2023-05-29 13:53:03,745 INFO UVAD_main.py line 110 18108] -------------dataset : shanghaitech
+[2023-05-29 13:53:03,745 INFO UVAD_main.py line 110 18108] -------------device : cuda:0
+[2023-05-29 13:53:05,827 INFO dataset.py line 174 18108] Load 330 videos 274515 frames, 144993 objects, excluding 773 inside objects and 0 small objects in 1.6077351570129395 s.
