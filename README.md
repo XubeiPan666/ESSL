@@ -1,8 +1,7 @@
-# STL-RANet: Residual Attentive Network and Self-selective Learning for Unsupervised Video Anomaly Detection
+# ESSL: Enhanced Spatio-temporal Self-selective Learning Framework for Unsupervised Video Anomaly Detection
 
 ## Introduction
-This is an official pytorch implementation of <STL-RANet: Residual Attentive Network and Self-selective Learning for
-Unsupervised Video Anomaly Detection>. 
+This is an official pytorch implementation of <ESSL: Enhanced Spatio-temporal Self-selective Learning Framework for Unsupervised Video Anomaly Detection>. 
 
 ## Environments
 
